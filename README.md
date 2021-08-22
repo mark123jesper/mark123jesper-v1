@@ -7,4 +7,4 @@
 </p>
 
 <h1 align="center"><Mark.bit><h1>
-<p align="center">!st/beta version of my portfolio</p>
+<p align="center">1st/beta version of my portfolio</p>
