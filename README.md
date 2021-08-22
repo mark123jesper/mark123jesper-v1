@@ -7,5 +7,4 @@
 </p>
 
 <h1 align="center"><Mark.bit><h1>
-<p align="center">Unique and Single URL of all coming Portfolio Version of mine.</p>
-<p align="center">Please look forward to it :)</p>
+<p align="center">!st/beta version of my portfolio</p>
